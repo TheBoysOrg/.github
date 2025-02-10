@@ -1,40 +1,67 @@
-# The Boys - POO - Chat Bot
+# 🦸‍♂️ The Boys - POO - Chat Bot  
 
-## Descrição
+## 💬 Descrição  
 
-**Chat Bot** é um projeto ousado desenvolvido com a premissa de *fazer as pessoas perderem tempo* de maneira eficaz. Nosso objetivo? Garantir uma **nota excelente no trabalho de POO** enquanto fazemos todo mundo pensar que estamos trabalhando em algo realmente útil.
+**Chat Bot** é um projeto ousado e inovador, desenvolvido com a premissa de *fazer as pessoas perderem tempo* de maneira eficaz. Nosso objetivo? Garantir uma **nota excelente no trabalho de POO** enquanto todos acham que estamos realmente desenvolvendo algo útil.  
 
-![Imagem Triunfal de The Boys](https://c4.wallpaperflare.com/wallpaper/211/527/790/homelander-the-boys-series-hd-wallpaper-preview.jpg)
+![Homelander aprova](https://c4.wallpaperflare.com/wallpaper/211/527/790/homelander-the-boys-series-hd-wallpaper-preview.jpg)  
 
+---
 
-## Membros da Equipe
+## 👥 Membros da Equipe  
 
-- **Francisco Wérisson**: O Designer de Githubs 
-- **José Matheus**: O Especialista em oratória
-- **João Victor**: O gênio.
+| Nome                | Função |
+|---------------------|--------------------------------------------------|
+| **Francisco Wérisson** | O Designer de Githubs |
+| **José Matheus**    | O Especialista em Oratória |
+| **João Victor**     | O Gênio. Apenas isso. |
 
-## Missão
+---
 
-Nossa missão é clara:
+## 🎯 Missão  
 
-- **Fazer as pessoas perderem tempo** tentando entender o que estamos fazendo.
-- **Conseguir uma nota boa no trabalho de POO** sem precisar suar muito a camisa.
-- Criar o projeto mais inútil que possa ser considerado genioso e, ao mesmo tempo, conseguir convencer os professores de que somos realmente bons programadores.
+📌 **Fazer as pessoas perderem tempo** tentando entender o que estamos fazendo.  
+📌 **Conseguir uma nota boa no trabalho de POO** sem precisar suar muito a camisa.  
+📌 Criar o projeto mais inútil possível, mas que pareça genial.  
+📌 Convencer os professores de que somos programadores excepcionais.  
 
-## Visão
+---
 
-Nossa visão é simples: **responder uma pergunta de forma coerente**, sempre mantendo um nível de confusão necessário para que o projeto pareça mais complexo do que realmente é. Quando questionados, sempre buscamos a resposta mais plausível.
-## Valores
+## 👀 Visão  
 
-Os valores que guiam nossa jornada são baseados no mais sagrado **Codex da Rapaziada**, que estabelece as regras da nossa existência digital:
+Nossa visão é simples: **responder qualquer pergunta de forma coerente**, mas mantendo um nível de confusão necessário para que o projeto pareça mais complexo do que realmente é. Se questionados, daremos sempre a resposta mais plausível (ou a que parecer mais convincente no momento).  
 
-- **Deus**: Deus. Sabe de quem estamos falando.
-- **Comprometimento**: À medida que buscamos a perfeição (ou ao menos um resultado aceitável), sabemos que o esforço é o que conta… ou pelo menos, o que podemos mostrar na apresentação.
-- **Irreverência**: Não podemos levar a programação tão a sério. Se você não se diverte com um código bagunçado, está fazendo errado.
-- **Autonomia**: Cada membro da equipe tem o direito de tomar decisões questionáveis, desde que seja para complicar o código de uma forma que faça parecer mais avançado.
+---
 
-## Tecnologias Utilizadas
+## 🏛️ Valores  
 
-- **Linguagem**: Java ![Java Icon](https://user-images.githubusercontent.com/54921185/123251140-dc4c7000-d4b8-11eb-87c6-5ad37c07020e.png)
-- **Bibliotecas**: Java Swing ![Swing Icon](https://upload.wikimedia.org/wikipedia/commons/0/05/GC_SwingDemo.jpg)
-                    *Exemplo de GUI em Java Swing* 
+Nosso projeto é guiado pelos princípios sagrados do **Codex da Rapaziada**, que rege nossa jornada na programação:  
+
+⚡ **Deus** – Deus. Sabe de quem estamos falando.  
+⚡ **Comprometimento** – Damos o nosso melhor (ou fingimos muito bem que estamos dando).  
+⚡ **Irreverência** – Se programar não for divertido, estamos fazendo errado.  
+⚡ **Autonomia** – Cada membro tem o direito de tomar decisões questionáveis, desde que aumente a complexidade do código sem motivo aparente.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+
+| Tecnologia  | Descrição |
+|------------|------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Linguagem de programação principal. |
+| ![Swing](https://img.shields.io/badge/Java%20Swing-GUI-orange?style=for-the-badge) | Biblioteca para interface gráfica. |
+| ![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) | IDE escolhida para facilitar nosso trabalho. |
+| ![Confusão](https://img.shields.io/badge/Confusão-100%25-blueviolet?style=for-the-badge) | Recurso fundamental para o sucesso do projeto. |
+
+### 🔍 Exemplo de Interface Swing  
+![Exemplo de GUI em Swing](https://upload.wikimedia.org/wikipedia/commons/0/05/GC_SwingDemo.jpg)  
+
+---
+
+## 🚀 Como Rodar o Projeto  
+
+1️⃣ **Baixe e instale o JDK**: [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)  
+2️⃣ **Clone o repositório**:  
+
+```bash
+git clone https://github.com/seu-usuario/the-boys-chatbot.git
