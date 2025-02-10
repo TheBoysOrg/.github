@@ -10,11 +10,11 @@
 
 ## 👥 Membros da Equipe  
 
-| Nome                | Função |
+| Nome                | Título |
 |---------------------|--------------------------------------------------|
 | **Francisco Wérisson** | O Designer de Githubs |
 | **José Matheus**    | O Especialista em Oratória |
-| **João Victor**     | O Gênio. Apenas isso. |
+| **João Victor**     | O Gênio |
 
 ---
 
