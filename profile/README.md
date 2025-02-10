@@ -37,7 +37,7 @@ Nossa visão é simples: **responder qualquer pergunta de forma coerente**, mas 
 
 Nosso projeto é guiado pelos princípios sagrados do **Codex da Rapaziada**, que rege nossa jornada na programação:  
 
-⚡ **Deus** – Deus. Sabe de quem estamos falando.  
+⚡ **Deus** – ✝.  
 ⚡ **Comprometimento** – Damos o nosso melhor (ou fingimos muito bem que estamos dando).  
 ⚡ **Irreverência** – Se programar não for divertido, estamos fazendo errado.  
 ⚡ **Autonomia** – Cada membro tem o direito de tomar decisões questionáveis, desde que aumente a complexidade do código sem motivo aparente.  
