@@ -12,9 +12,9 @@
 
 | Nome                | Título |
 |---------------------|--------------------------------------------------|
-| **Francisco Wérisson** | O Designer de Githubs |
-| **José Matheus**    | O Especialista em Oratória |
-| **João Victor**     | O Gênio |
+| **Francisco Wérisson** | O Imprevisível |
+| **José Matheus**    | O Eremita |
+| **João Victor**     | O Veterano |
 
 ---
 
