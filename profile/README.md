@@ -61,7 +61,13 @@ Nosso projeto é guiado pelos princípios sagrados do **Codex da Rapaziada**, qu
 ## 🚀 Como Rodar o Projeto  
 
 1️⃣ **Baixe e instale o JDK**: [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)  
-2️⃣ **Clone o repositório**:  
+2️⃣ **Clone o repositório**:
 
 ```bash
 git clone https://github.com/seu-usuario/the-boys-chatbot.git
+```
+- abra o netbeans
+- vá em open project
+- selecione o projeto
+- va em telademensagem
+- precione sift e f6
